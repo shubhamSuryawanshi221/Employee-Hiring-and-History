@@ -2,6 +2,9 @@
 
 This Power BI project visualizes data related to employee hiring trends and workforce history. It provides key insights into employee demographics, hiring patterns, department-wise distribution, and employment changes over time.
 
+### 🏠 Home Page
+<img src="employee.png" alt="Home Page" width="100%" />
+
 ## 📊 Key Features
 
 - Year-wise and department-wise employee hiring trends
